@@ -1,0 +1,12 @@
+::::::::::::::::::::textpak=>D:/svn/python/PP4E/Gui/ShellGui/new-eggs.txt
+eggs
+::::::::::::::::::::textpak=>D:/svn/python/PP4E/Gui/ShellGui/new-ham.txt
+h
+ a
+  m
+::::::::::::::::::::textpak=>D:/svn/python/PP4E/Gui/ShellGui/new-spam.txt
+spam
+Spam
+SPAM
+::::::::::::::::::::textpak=>D:/svn/python/PP4E/Gui/ShellGui/eggs.txt
+eggs
